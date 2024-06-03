@@ -40,6 +40,8 @@
 ### Использованные технологии:
 #### Python, Django, Html, Bootsrap, PostgreSql,  Pandas, Crispy, Git, Docker
 
+### остальные проекты: https://github.com/MRPARFENTYEV/My_resume/blob/main/addendum.md
+
 ## Владение иностранными языками:
 #### английский на уровне чтения документации 
 
